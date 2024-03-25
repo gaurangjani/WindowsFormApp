@@ -10,11 +10,26 @@ using System.Windows.Forms;
 
 namespace WindowsFormApp
 {
-    public partial class Form1 : Form
+    public partial class form_MyApp : Form
     {
-        public Form1()
+        public form_MyApp()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            lbl_hellomessage.Text = "Nice to meet you!";
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,0 +1,10 @@
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\obj\Debug\WindowsFormApp.pdb
+C:\Users\LENOVO\OneDrive\Documents\GitHub\WindowsFormApp\obj\Debug\WindowsFormApp.form_MyApp.resources
