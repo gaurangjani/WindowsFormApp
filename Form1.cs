@@ -31,5 +31,10 @@ namespace WindowsFormApp
         {
 
         }
+
+        private void btn_changecolor_Click(object sender, EventArgs e)
+        {
+            lbl_hellomessage.ForeColor = Color.Red;
+        }
     }
 }
